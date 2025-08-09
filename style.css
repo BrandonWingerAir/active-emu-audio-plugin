@@ -195,6 +195,13 @@ nav a:hover {
   padding: var(--spacing) 0;
 }
 
+footer .tip-link {
+  background: #2962ff;
+  padding: 10px;
+  position: relative;
+  top: 6px;
+}
+
 .site-footer .social {
   margin-top: .5rem;
 }
